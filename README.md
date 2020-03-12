@@ -4,6 +4,6 @@
  * 월, 수, 금 각 2문제씩
  * 자료조사는 'Issues'에 올리기!
  * 소스코드는 fork뜬 자신의 repository에 push할 것!
->   * 희지's src : https://github.com/HeegeePark/DataStructure/tree/master/Baekjoon/Algorithm-Study 
+>   * 희지's src : https://github.com/HeegeePark/DataStructure/tree/master/Baekjoon
 >   * 희수's src : https://github.com/HeeSuChoi/Algorithm-Study-Archiving
 >   * 문제 풀이 이슈 : https://github.com/HeegeePark/Algorithm-Study-Archiving/issues
